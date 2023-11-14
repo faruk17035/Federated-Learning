@@ -1,0 +1,30 @@
+.btn{
+    height: 65px;
+    width: 80px;
+    margin:5px;
+    border-radius: 10px;
+    background-color: brown;
+    
+}
+
+.bord{
+    height: 410px;
+    width: 348px;
+    border-style: solid;
+    border-color: rgb(95, 23, 23);
+    border-radius: 10px;
+    
+   
+}
+.output{
+    padding: 10px;
+    text-align: right;
+    border-style: solid;
+    border-radius: 5px; 
+    margin: 10px;
+    height: 80px;
+    border-color: rgb(160, 146, 146);
+}
+#example{
+    text-align: right;
+}
